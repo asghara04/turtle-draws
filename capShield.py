@@ -40,4 +40,5 @@ for _ in range(5):
 	cap.right(144)
 cap.end_fill()
 
+cap.hideturtle()
 turtle.done()
